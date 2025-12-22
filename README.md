@@ -1,48 +1,12 @@
 ## 👋 Welcome to Muhammad Shan Ahmad's GitHub!
 
-💻 Software Engineer | Java Backend Specialist | Cloud & Microservices Enthusiast
+## 💻 Software Engineer | Java Backend Specialist | Cloud & Microservices Enthusiast
 
 I'm a results-driven Software Engineer with 4+ years of experience in designing, developing, and modernizing enterprise-grade web applications. My core expertise lies in Java backend development, microservices architecture, and cloud-based systems.
 
 I enjoy solving complex business problems, modernizing legacy systems, and building scalable, high-performance applications using clean architecture and best practices. I’m continuously learning and adapting to new technologies, especially in cloud computing and distributed systems.
 
-💼 Professional Experience
-
-I have hands-on experience working with large-scale enterprise and product-based systems across fintech, e-commerce, CRM, and mortgage/title insurance domains.
-
-🔹 Consultant Software Engineer — Systems Limited (May 2024 – Present)
-
-Project: AtClose (USA – Mortgage & Title Insurance Platform)
-
-Worked on core modules including Title Management, Transactions, and Closing
-
-Contributed to modernizing a monolithic system into REST-based microservices
-
-Migrated legacy functionality while ensuring performance, scalability, and system integrity
-
-Collaborated closely with QA, DevOps, and Business teams in an Agile environment
-
-🔹 Java Engineer — Jade E-Services (Daraz | Alibaba Group) (Dec 2022 – Mar 2024)
-
-Enhanced and maintained Xspace CRM (Alibaba internal system)
-
-Led cloud migration across Alibaba Cloud servers
-
-Designed and developed Seller Claims Center from scratch
-
-Contributed to Alime Chatbot (Xiaomi), delivering new features and production deployments
-
-🔹 Software Engineer — Avanza Solutions (Jun 2021 – Jan 2023)
-
-Migrated enterprise applications from Java EE to Spring Boot
-
-Led SOAP-to-REST architecture transformation for Loan Management Systems
-
-Integrated Ehsaas Kafalat Program with Unison CRM for Habib Bank Limited (HBL)
-
-Awarded “Best New Edition” for innovative contributions
-
-🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 Backend & Core:
 
@@ -80,7 +44,7 @@ Agile / Scrum
 
 Three-Tier & Distributed Architectures
 
-🧩 Key Projects
+## 🧩 Key Projects
 
 AtClose – Mortgage & Title Insurance Platform (Java, Spring Boot, Azure, SQL Server)
 
@@ -94,15 +58,15 @@ Novus Xcite – Loan Management System with REST-based modernization
 
 Unison CRM – Enterprise CRM with Java EE → Spring Boot migration
 
-🎓 Education & Certifications
+## 🎓 Education & Certifications
 
-🎓 Education
+## 🎓 Education
 
 PG Diploma in Cloud Computing — NED University (2024–2025)
 
 BS Computer Science — FAST NUCES, Karachi (2016–2020)
 
-📜 Certifications
+## 📜 Certifications
 
 Google: Introduction to Git & GitHub
 
@@ -120,7 +84,7 @@ Load Balancing
 
 High-Traffic Cloud Architecture
 
-🌱 Currently Learning
+## 🌱 Currently Learning
 
 Cloud-native architecture
 
@@ -130,7 +94,7 @@ Distributed systems & system design
 
 DevOps & containerization fundamentals
 
-🔗 Let’s Connect!
+## 🔗 Let’s Connect!
 
 LinkedIn: https://www.linkedin.com/in/muhammad-shan-ahmad-64291917b
 
@@ -139,3 +103,5 @@ Email: shanahmad177@gmail.com
 Feel free to explore my repositories and projects. I’m always open to collaboration, learning opportunities, and meaningful engineering discussions.
 
 Thanks for stopping by — happy coding! 😄
+
+
