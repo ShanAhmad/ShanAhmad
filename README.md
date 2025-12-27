@@ -62,9 +62,9 @@ Unison CRM – Enterprise CRM with Java EE → Spring Boot migration
 
 ## 🎓 Education
 
-PG Diploma in Cloud Computing — NED University (2024–2025)
+Post Graduate Diploma in Cloud Computing — NED University (2024–2025)
 
-BS Computer Science — FAST NUCES, Karachi (2016–2020)
+Bachelors of Science in Computer Science — FAST NUCES, Karachi (2016–2020)
 
 ## 📜 Certifications
 
