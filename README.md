@@ -8,25 +8,25 @@ I enjoy solving complex business problems, modernizing legacy systems, and build
 
 ## 🛠️ Technical Skills
 
-Backend & Core:
+## Backend & Core:
 
 Java, Java EE, Spring Boot, Spring MVC
 
 RESTful APIs, Microservices, SOAP-to-REST Migration
 
-Frontend (Working Knowledge):
+## Frontend (Working Knowledge):
 
 HTML, CSS, JavaScript, jQuery
 
 React, Angular
 
-Databases & Caching:
+## Databases & Caching:
 
 MySQL, SQL Server, Oracle 10g
 
 Redis
 
-Cloud & Infrastructure:
+## Cloud & Infrastructure:
 
 Alibaba Cloud
 
@@ -34,7 +34,7 @@ Azure
 
 Load Balancers, Cloud Databases, Object Storage
 
-Tools & Practices:
+## Tools & Practices:
 
 Git, SVN
 
